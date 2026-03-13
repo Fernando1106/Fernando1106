@@ -19,7 +19,7 @@ Construyendo herramientas que hacen la vida de los devs más fácil. Amante del 
 - 🔭 Trabajando en proyectos de código abierto
 - 🌱 Siempre aprendiendo nuevas tecnologías
 - 💬 Pregúntame sobre TypeScript, React, Node.js
-- 📫 Cómo contactarme: **darkthe443@gmail.com**
+- 📫 Cómo contactarme: **[Contáctame aquí](mailto:darkthe443@gmail.com)**
 
 ---
 
