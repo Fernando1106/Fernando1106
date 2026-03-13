@@ -1,16 +1,13 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alexgarcia&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Profile views" />
-</div>
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hola, Fernando Salinas
-</h1>
-
-<h3 align="center">Full Stack Developer & Open Source</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,06b6d4&height=200&section=header&text=FernandoSalinas&fontSize=55&fontColor=f0abfc&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=56&descAlign=50" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Full%20Stack%20Developer%20%26%20Open%20Source%20Enthusiast;Open%20Source%20Contributor;Clean%20Code%20Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=f0abfc&center=true&vCenter=true&width=600&lines=Building%20cool%20stuff%20%F0%9F%9A%80;Open%20Source%20Enthusiast;TypeScript%20%26%20React%20Dev;Coffee-driven%20coder%20%E2%98%95" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fernando1106&color=blueviolet&style=flat-square" alt="Visitas" />
 </p>
 
 ---
@@ -65,4 +62,7 @@ Construyendo herramientas que hacen la vida de los devs más fácil. Amante del 
 
 ---
 
-<p align="center">⭐ Si mis proyectos te son útiles, ¡considera darles una estrella!</p>
+<p align="center">
+  <p align="center">⭐ Si mis proyectos te son útiles, ¡considera darles una estrella!</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,06b6d4&height=80&section=footer" />
+</p>
