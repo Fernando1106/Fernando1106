@@ -40,11 +40,13 @@ Construyendo herramientas que hacen la vida de los devs más fácil. Amante del 
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fernando1106&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fernando1106&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando1106&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando1106&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=Fernando1106&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
