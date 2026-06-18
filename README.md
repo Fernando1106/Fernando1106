@@ -1,66 +1,31 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,06b6d4&height=200&section=header&text=FernandoSalinas&fontSize=55&fontColor=f0abfc&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=56&descAlign=50" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,06b6d4&height=200&section=header&text=Fernando%20Salinas&fontSize=55&fontColor=f0abfc&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=56&descAlign=50" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=f0abfc&center=true&vCenter=true&width=600&lines=Building%20cool%20stuff%20%F0%9F%9A%80;Full%20Stack%20%7C%20Next.js%20%26%20React;Real-time%20data%20%26%20APIs;Coffee-driven%20coder%20%E2%98%95" alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Fernando1106&color=blueviolet&style=flat-square&label=Profile+Views" alt="Visitas" /> <a href="https://www.linkedin.com/in/fernandosalinasayala/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:fernandosalinas1603@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> </p>
+🙋‍♂️ Sobre mí
+Desarrollador Full Stack construyendo productos web de principio a fin: desde el diseño de la UI hasta la integración de APIs en tiempo real y la base de datos. Amante del código limpio y el café ☕
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=f0abfc&center=true&vCenter=true&width=600&lines=Building%20cool%20stuff%20%F0%9F%9A%80;Open%20Source%20Enthusiast;TypeScript%20%26%20React%20Dev;Coffee-driven%20coder%20%E2%98%95" alt="Typing SVG" />
-</p>
+🔭 Trabajando en VSLive — plataforma de resultados deportivos en vivo con predicciones y ranking
+🌱 Profundizando en Next.js 16 (App Router), server actions y datos en tiempo real
+💬 Pregúntame sobre TypeScript, React, Next.js, Node.js
+⚡ Me gusta integrar APIs externas y hacer que "simplemente funcione" en producción
+📫 Contacto: fernandosalinas1603@gmail.com
+🚀 Proyectos Destacados
+<table> <tr> <td width="50%" valign="top"> <h3 align="center">⚽ VSLive</h3> <p align="center"> <em>Resultados de fútbol y esports en vivo, con predicciones de marcador, sistema de puntos y ranking.</em> </p> <p align="center"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /> </p> <ul> <li>🔴 Marcadores <b>en vivo</b> con minuto exacto (integración multi-API)</li> <li>🎯 Predicciones de marcador con puntos (3 exacto / 1 resultado) y <b>ranking</b></li> <li>🎮 Fútbol + esports (Dota 2 / CS:GO) con picks & bans de héroes</li> <li>⚙️ Football-Data · PandaScore · API-Football · OpenDota</li> </ul> </td> <td width="50%" valign="top"> <h3 align="center">🎫 Helpdesk SaaS</h3> <p align="center"> <em>Sistema de mesa de ayuda (tickets/soporte) con diseño unificado, pensado como producto SaaS.</em> </p> <p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> </p> <ul> <li>🎟️ Gestión de tickets y soporte personalizado</li> <li>🎨 Sistema de diseño unificado y reutilizable</li> <li>☁️ Arquitectura multi-tenant orientada a SaaS</li> <li>🔄 Migración de proyecto de escritorio a web</li> </ul> </td> </tr> </table>
+📂 Otros proyectos
+<table> <tr> <td width="33%" valign="top"> <h4 align="center">🏨 Hotel Management</h4> <p align="center"><em>Sistema de gestión hotelera: reservas, habitaciones y huéspedes.</em></p> <p align="center"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> </p> </td> <td width="33%" valign="top"> <h4 align="center">🏥 Clínica Médica</h4> <p align="center"><em>Sistema de citas y agenda para una clínica médica.</em></p> <p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> </p> </td> <td width="33%" valign="top"> <h4 align="center">🛒 Streaming Marketplace</h4> <p align="center"><em>Marketplace de cuentas de streaming con flujo de venta.</em></p> <p align="center"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> </p> </td> </tr> <tr> <td width="33%" valign="top"> <h4 align="center">💬 Multistream Chat</h4> <p align="center"><em>Plataforma de chat multistream con mejoras de rendimiento.</em></p> <p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" /> </p> </td> <td width="33%" valign="top"> <h4 align="center">🌸 Floristería Online</h4> <p align="center"><em>Catálogo de floristería con integración de ventas.</em></p> <p align="center"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> </p> </td> <td width="33%" valign="top"> <h4 align="center">🛠️ Code Reviews & Legacy</h4> <p align="center"><em>Auditoría y mejora de proyectos legacy: bugs, límites y refactor.</em></p> <p align="center"> <img src="https://img.shields.io/badge/Refactoring-8A2BE2?style=flat-square" /> <img src="https://img.shields.io/badge/Code%20Review-06B6D4?style=flat-square" /> </p> </td> </tr> </table>
+🛠️ Tecnologías y Herramientas
+Lenguajes
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fernando1106&color=blueviolet&style=flat-square" alt="Visitas" />
-</p>
+<p align="left"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> </p>
+Frontend
 
----
+<p align="left"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" /> </p>
+Backend & Data
 
-### 🙋‍♂️ Sobre mí
+<p align="left"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /> </p>
+DevOps & Tools
 
-Construyendo herramientas que hacen la vida de los devs más fácil. Amante del código limpio y el café ☕
-
-- 🔭 Trabajando en proyectos de código abierto
-- 🌱 Siempre aprendiendo nuevas tecnologías
-- 💬 Pregúntame sobre TypeScript, React, Node.js
-- 📫 Cómo contactarme: **[Contáctame aquí](mailto:darkthe443@gmail.com)**
-
----
-
-### 🛠️ Tecnologías y Herramientas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-</p>
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fernando1106&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando1106&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fernando1106&theme=tokyonight" />
-</p>
-
----
-
-### 🤝 Conectemos
-
-<p align="left">
-  <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
-
-<p align="center">
-  <p align="center">⭐ Si mis proyectos te son útiles, ¡considera darles una estrella!</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,06b6d4&height=80&section=footer" />
-</p>
+<p align="left"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </p>
+📊 Estadísticas de GitHub
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fernando1106&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando1106&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fernando1106&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Fernando1106&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fernando1106&theme=tokyo-night&hide_border=true&area=true" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fernando1106&theme=tokyonight" /> </p>
+🤝 Conectemos
+<p align="left"> <a href="https://www.linkedin.com/in/fernandosalinasayala/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:fernandosalinas1603@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> </p>
+<p align="center">⭐ Si mis proyectos te son útiles, ¡considera darles una estrella!</p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,06b6d4&height=80&section=footer" /> </p>
