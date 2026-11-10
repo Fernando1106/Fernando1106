@@ -91,8 +91,8 @@ Desarrollador Full Stack construyendo productos web de principio a fin: desde el
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h4 align="center">💬 Multistream Chat</h4>
-      <p align="center"><em>Plataforma de chat multistream con mejoras de rendimiento.</em></p>
+      <h4 align="center">🤖 <a href="https://solvexbot.com">SolvexBot</a></h4>
+      <p align="center"><em>Bot y overlays en la nube para streamers multiplataforma: chat unificado de Twitch, Kick, TikTok y YouTube, alertas para OBS, TTS, comandos y automod.</em></p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
