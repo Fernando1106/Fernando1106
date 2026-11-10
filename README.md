@@ -119,59 +119,39 @@ Desarrollador Full Stack construyendo productos web de principio a fin: desde el
 
 ## 🛠️ Tecnologías y Herramientas
 
-**Lenguajes**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,react,nextjs,tailwind&theme=dark" alt="TypeScript, JavaScript, Python, HTML, CSS, React, Next.js, Tailwind CSS" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,supabase,graphql,docker,vercel,git,github&theme=dark" alt="Node.js, Prisma, PostgreSQL, Supabase, GraphQL, Docker, Vercel, Git, GitHub" />
 </p>
 
-**Frontend**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-**Backend & Data**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-</p>
-
-**DevOps & Tools**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+| Área | Stack |
+| :-- | :-- |
+| **Lenguajes** | TypeScript · JavaScript · Python · HTML5 · CSS3 |
+| **Frontend** | React · Next.js · Tailwind CSS |
+| **Backend & Data** | Node.js · Prisma · PostgreSQL · Supabase · GraphQL |
+| **DevOps & Tools** | Docker · Vercel · Git · GitHub |
 
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Fernando1106&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" /></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fernando1106&theme=tokyonight" alt="Resumen del perfil y contribuciones del último año" />
 </p>
-
-<!--
-  Tarjetas de stats y lenguajes: la instancia pública github-readme-stats.vercel.app ya no es fiable.
-  Despliega tu propia instancia (fork de anuraghazra/github-readme-stats en Vercel + token de GitHub),
-  sustituye TU-INSTANCIA por tu dominio y quita este comentario:
 
 <p align="center">
-  <img height="170" src="https://TU-INSTANCIA.vercel.app/api?username=Fernando1106&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub" />
-  <img height="170" src="https://TU-INSTANCIA.vercel.app/api/top-langs/?username=Fernando1106&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fernando1106&theme=tokyonight" alt="Estadísticas: estrellas, commits, PRs e issues" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fernando1106&theme=tokyonight" alt="Lenguajes por repositorio" />
 </p>
--->
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fernando1106&theme=tokyonight" alt="Lenguajes por commits" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fernando1106&theme=tokyonight&utcOffset=1" alt="Commits por hora del día (UTC+1)" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Fernando1106&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" /></a>
+</p>
 
 ## 🤝 Conectemos
 
